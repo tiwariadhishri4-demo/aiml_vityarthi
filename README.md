@@ -178,7 +178,26 @@ Average Confirmed Cases: 1900.0
  Project executed successfully!
 
 
-## output screenshot 
+## output screenshot 1:
+<img width="640" height="480" alt="fig2output" src="https://github.com/user-attachments/assets/d76468ef-0b64-4a50-a708-81dbc0becc8f" />
+
+## output screenshot 2:
+<img width="470" height="480" alt="fig1output" src="https://github.com/user-attachments/assets/e5186bb7-4d11-452c-8839-93851cd07aee" />
+
+## output screenshot 3:
+<img width="640" height="480" alt="fig3output" src="https://github.com/user-attachments/assets/6f0ffa0c-623c-4c36-a60c-dd2b56cfeb8e" />
+
+## output screenshot 4:
+<img width="640" height="480" alt="fig4output" src="https://github.com/user-attachments/assets/34b25ebb-503c-40b6-91f5-255de42ce027" />
+
+#### program executed successfully ####
+
+
+
+
+
+
+
 
 
 
